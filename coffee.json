@@ -74,251 +74,153 @@
     "type": "Coffee",
     "origin": "Austria",
     "price": 4.49,
-    "image": "viennese_coffee.jpg"
+    "image": "https://th.bing.com/th/id/OIP.ppwBidxAjAAsgZQSuZNg3QHaKR?w=123&h=180&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
   {
     "name": "Irish Coffee",
     "type": "Coffee",
     "origin": "Ireland",
     "price": 5.99,
-    "image": "irish_coffee.jpg"
+    "image": "https://th.bing.com/th/id/OIP.gVaRm5L0Gy2vCNiYNRjWcwHaK5?w=145&h=214&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
   {
     "name": "Frappe",
     "type": "Coffee",
     "origin": "Greece",
     "price": 4.29,
-    "image": "frappe.jpg"
+    "image": "https://th.bing.com/th/id/OIP.fxTosEn-KbjdQETNz4I_nAHaJj?w=170&h=219&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
   {
     "name": "Mazagran",
     "type": "Coffee",
     "origin": "Portugal",
     "price": 4.69,
-    "image": "mazagran.jpg"
+    "image": "https://th.bing.com/th/id/OIP.6ZTxGbVyGj76ViUVSWH1NQHaGL?w=224&h=187&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
   {
     "name": "Mocha",
     "type": "Coffee",
     "origin": "United States",
     "price": 4.49,
-    "image": "mocha_usa.jpg"
+    "image": "https://th.bing.com/th/id/OIP.3bxvJj8l7YJ65KSEIcsPYgHaJK?w=140&h=180&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
   {
     "name": "Flat White",
     "type": "Coffee",
     "origin": "Australia",
     "price": 4.99,
-    "image": "flat_white_au.jpg"
+    "image": "https://th.bing.com/th/id/OIP.ndP9hQp1Kbgk0jisEcYJXAHaDO?w=293&h=152&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
   {
     "name": "Espresso Romano",
     "type": "Coffee",
     "origin": "Italy",
     "price": 3.69,
-    "image": "espresso_romano.jpg"
+    "image": "https://th.bing.com/th/id/OIP.NX7JWeUYOnT_fpZlQwAh1gHaE7?w=250&h=180&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
   {
     "name": "Guatemala Antigua",
     "type": "Coffee",
     "origin": "Guatemala",
     "price": 5.49,
-    "image": "guatemala_antigua.jpg"
-  },
-  {
-    "name": "Sumatra Mandheling",
-    "type": "Coffee",
-    "origin": "Indonesia",
-    "price": 5.79,
-    "image": "sumatra_mandheling.jpg"
-  },
-  {
-    "name": "Ethiopian Yirgacheffe",
-    "type": "Coffee",
-    "origin": "Ethiopia",
-    "price": 6.29,
-    "image": "ethiopian_yirgacheffe.jpg"
-  },
-  {
-    "name": "Kenya AA",
-    "type": "Coffee",
-    "origin": "Kenya",
-    "price": 6.59,
-    "image": "kenya_aa.jpg"
-  },
-  {
-    "name": "Colombian Supremo",
-    "type": "Coffee",
-    "origin": "Colombia",
-    "price": 5.99,
-    "image": "colombian_supremo.jpg"
-  },
-  {
-    "name": "Costa Rican Tarrazu",
-    "type": "Coffee",
-    "origin": "Costa Rica",
-    "price": 5.89,
-    "image": "costa_rican_tarrazu.jpg"
-  },
-  {
-    "name": "Brazilian Santos",
-    "type": "Coffee",
-    "origin": "Brazil",
-    "price": 4.79,
-    "image": "brazilian_santos.jpg"
-  },
-  {
-    "name": "Hawaiian Kona",
-    "type": "Coffee",
-    "origin": "Hawaii",
-    "price": 7.99,
-    "image": "hawaiian_kona.jpg"
-  },
-  {
-    "name": "Panama Boquete",
-    "type": "Coffee",
-    "origin": "Panama",
-    "price": 6.89,
-    "image": "panama_boquete.jpg"
-  },
-  {
-    "name": "Jamaican Blue Mountain",
-    "type": "Coffee",
-    "origin": "Jamaica",
-    "price": 8.49,
-    "image": "jamaican_blue_mountain.jpg"
+    "image": "https://th.bing.com/th/id/OIP.piqocqO479PiieUz2zlkawHaEM?w=311&h=180&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
   {
     "name": "Vietnamese Coffee",
     "type": "Coffee",
     "origin": "Vietnam",
     "price": 4.29,
-    "image": "vietnamese_coffee.jpg"
+    "image": "https://th.bing.com/th/id/OIP.9TPiQFXfydlW5m_aJcrwMAHaE8?w=259&h=180&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
   {
     "name": "Thai Iced Coffee",
     "type": "Coffee",
     "origin": "Thailand",
     "price": 3.79,
-    "image": "thai_iced_coffee.jpg"
+    "image": "https://th.bing.com/th/id/OIP.bpNjROqazdUYGYpbPj5LPAAAAA?w=234&h=180&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
   {
     "name": "Lungo",
     "type": "Coffee",
     "origin": "Italy",
     "price": 3.49,
-    "image": "lungo.jpg"
-  },
-  {
-    "name": "Doppio",
-    "type": "Coffee",
-    "origin": "Italy",
-    "price": 3.29,
-    "image": "doppio.jpg"
+    "image": "https://th.bing.com/th/id/OIP.Cr1XvciLV0RKNwPsjhIt_gAAAA?w=205&h=102&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
   {
     "name": "Long Black",
     "type": "Coffee",
     "origin": "Australia",
     "price": 4.19,
-    "image": "long_black.jpg"
+    "image": "https://th.bing.com/th/id/OIF.nQmvtKYjCHqaZDHOl6jEBg?w=274&h=182&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
   {
     "name": "Café au Lait",
     "type": "Coffee",
     "origin": "France",
     "price": 4.39,
-    "image": "cafe_au_lait.jpg"
+    "image": "https://th.bing.com/th/id/OIP.BbI9HyDOOPXmyoacg2J7owHaJ4?w=139&h=185&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
   {
     "name": "Greek Frappe",
     "type": "Coffee",
     "origin": "Greece",
     "price": 3.99,
-    "image": "greek_frappe.jpg"
+    "image": "https://th.bing.com/th/id/OIP.iPlzb4f8ZfB2NtTEVXRRnAHaJS?w=152&h=191&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
   {
     "name": "Wiener Melange",
     "type": "Coffee",
     "origin": "Austria",
     "price": 4.69,
-    "image": "wiener_melange.jpg"
+    "image": "https://th.bing.com/th/id/OIP.H16a744-kPsI8G5uaj4b1AHaDt?w=321&h=175&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
   {
     "name": "Baileys Coffee",
     "type": "Coffee",
     "origin": "Ireland",
     "price": 6.49,
-    "image": "baileys_coffee.jpg"
+    "image": "https://th.bing.com/th/id/OIP.HQOtgCQnvXL4sKdbIJ__oQHaEK?w=235&h=180&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
   {
     "name": "Eiskaffee",
     "type": "Coffee",
     "origin": "Germany",
     "price": 4.79,
-    "image": "eiskaffee.jpg"
+    "image": "https://th.bing.com/th/id/OIP.DL-LtURqsVjxOZAlrCwAvAAAAA?w=193&h=322&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
   {
     "name": "Kopi Tubruk",
     "type": "Coffee",
     "origin": "Indonesia",
     "price": 4.59,
-    "image": "kopi_tubruk.jpg"
-  },
-  {
-    "name": "Red Eye",
-    "type": "Coffee",
-    "origin": "United States",
-    "price": 4.09,
-    "image": "red_eye.jpg"
+    "image": "https://th.bing.com/th/id/OIP.rCf7BHUY88h6PHXQVoqLPgHaE7?w=257&h=180&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
   {
     "name": "Cortado",
     "type": "Coffee",
     "origin": "Spain",
     "price": 4.29,
-    "image": "cortado.jpg"
-  },
-  {
-    "name": "Galão",
-    "type": "Coffee",
-    "origin": "Portugal",
-    "price": 4.49,
-    "image": "galao.jpg"
+    "image": "https://th.bing.com/th/id/OIP.xnEGbClylYQBMMWfGmNkIwHaE9?w=262&h=180&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
   {
     "name": "Soya Latte",
     "type": "Coffee",
     "origin": "Various",
     "price": 4.79,
-    "image": "soya_latte.jpg"
-  },
-  {
-    "name": "Turkish Coffee",
-    "type": "Coffee",
-    "origin": "Greece",
-    "price": 3.99,
-    "image": "turkish_coffee_gr.jpg"
+    "image": "https://th.bing.com/th/id/OIP.7UzUBn-WzEDaq9d-kKT6GAHaLH?w=121&h=182&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
   {
     "name": "Espresso Con Panna",
     "type": "Coffee",
     "origin": "Italy",
     "price": 4.19,
-    "image": "espresso_con_panna.jpg"
-  },
-  {
-    "name": "Caffè Medici",
-    "type": "Coffee",
-    "origin": "United States",
-    "price": 5.29,
-    "image": "caffe_medici.jpg"
+    "image": "https://th.bing.com/th/id/OIP.V6EgMxzmirWDHaudFlkE2AAAAA?w=134&h=201&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
   {
     "name": "Café Bombón",
     "type": "Coffee",
     "origin": "Spain",
     "price": 4.39,
-    "image": "cafe_bombon.jpg"
+    "image": "https://th.bing.com/th/id/OIP.GfdDUoqeT3mJ53meQiJ46AHaHa?w=195&h=195&c=7&r=0&o=5&dpr=2&pid=1.7"
   }
 ]
