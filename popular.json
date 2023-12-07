@@ -1,0 +1,41 @@
+[
+{
+    "name": "Latte",
+    "type": "Coffee",
+    "origin": "Italy",
+    "price": 3.99,
+    "image": "https://coffeeaffection.com/wp-content/uploads/2021/05/Spanish-latte-milk-and-espresso-500x500.jpg"
+  },
+  
+  {
+    "name": "Cappuccino",
+    "type": "Coffee",
+    "origin": "Italy",
+    "price": 4.59,
+    "image": "https://th.bing.com/th/id/OIP.cdVnKnaAWhzmIQ4fpgk7WgHaE7?w=303&h=201&c=7&r=0&o=5&dpr=2&pid=1.7"
+  },
+ {
+    "name": "Frappe",
+    "type": "Coffee",
+    "origin": "Greece",
+    "price": 4.29,
+    "image": "https://th.bing.com/th/id/OIP.fxTosEn-KbjdQETNz4I_nAHaJj?w=170&h=219&c=7&r=0&o=5&dpr=2&pid=1.7"
+  },
+{
+    "name": "Espresso Romano",
+    "type": "Coffee",
+    "origin": "Italy",
+    "price": 3.69,
+    "image": "https://th.bing.com/th/id/OIP.NX7JWeUYOnT_fpZlQwAh1gHaE7?w=250&h=180&c=7&r=0&o=5&dpr=2&pid=1.7"
+  }
+
+
+
+
+
+
+
+
+
+
+]
