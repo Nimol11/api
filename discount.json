@@ -3,7 +3,8 @@
     "name": "Mocha",
     "type": "Coffee",
     "origin": "Italy",
-    "price": 4.29,
+    "price": "4.29",
+    "discount" "3.2",
     "image": "https://th.bing.com/th/id/OIP.XA6wtDnxaMc20iGyjp7hDQHaGu?w=237&h=215&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
  
@@ -11,7 +12,8 @@
     "name": "Espresso",
     "type": "Coffee",
     "origin": "Italy",
-    "price": 2.49,
+    "price": "2.49",
+    "discount" "2",
     "image": "https://th.bing.com/th/id/OIP.iuXuV3I1W9x3H6EVzOa8XwHaHa?w=184&h=184&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
   
@@ -19,89 +21,35 @@
     "name": "Americano",
     "type": "Coffee",
     "origin": "Italy",
-    "price": 3.79,
+    "price": "3.79",
+    "discount" "2.5",
     "image": "https://th.bing.com/th/id/OIP.TooBIAm9-aDHK5DsyIi3BAHaDt?w=340&h=174&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
   {
     "name": "Macchiato",
     "type": "Coffee",
     "origin": "Italy",
-    "price": 4.09,
+    "price": "4.09",
+    "discount" "3.5",
     "image": "https://th.bing.com/th/id/OIP.377fiRD-zVcxGZF2gOK97AHaE8?w=260&h=180&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
-  {
-    "name": "Ristretto",
-    "type": "Coffee",
-    "origin": "Italy",
-    "price": 4.79,
-    "image": "https://th.bing.com/th/id/OIP.H87mP7tMwErURH1UzTlsdQHaEU?w=313&h=183&c=7&r=0&o=5&dpr=2&pid=1.7"
-  },
-  {
-    "name": "Flat White",
-    "type": "Coffee",
-    "origin": "Italy",
-    "price": 4.89,
-    "image": "https://th.bing.com/th/id/OIP.kGg0kLH-5zdOFSBYlIulngHaGu?w=208&h=189&c=7&r=0&o=5&dpr=2&pid=1.7"
-  },
-  {
-    "name": "Affogato",
-    "type": "Coffee",
-    "origin": "Italy",
-    "price": 5.29,
-    "image": "https://th.bing.com/th/id/OIP.Y086XLjaJV3dv96I3To5vAAAAA?w=138&h=193&c=7&r=0&o=5&dpr=2&pid=1.7"
-  },
+
   {
     "name": "Turkish Coffee",
     "type": "Coffee",
     "origin": "Turkey",
-    "price": 3.99,
+    "price": "3.99",
+    "discount" "2.5",
     "image": "https://th.bing.com/th/id/OIP.WJXRgDZS8O9oNv-EeQsQfQHaE7?w=262&h=180&c=7&r=0&o=5&dpr=2&pid=1.7"
-  },
-  {
-    "name": "Viennese Coffee",
-    "type": "Coffee",
-    "origin": "Austria",
-    "price": 4.49,
-    "image": "https://th.bing.com/th/id/OIP.ppwBidxAjAAsgZQSuZNg3QHaKR?w=123&h=180&c=7&r=0&o=5&dpr=2&pid=1.7"
-  },
-  {
-    "name": "Irish Coffee",
-    "type": "Coffee",
-    "origin": "Ireland",
-    "price": 5.99,
-    "image": "https://th.bing.com/th/id/OIP.gVaRm5L0Gy2vCNiYNRjWcwHaK5?w=145&h=214&c=7&r=0&o=5&dpr=2&pid=1.7"
-  },
-  
-  {
-    "name": "Mazagran",
-    "type": "Coffee",
-    "origin": "Portugal",
-    "price": 4.69,
-    "image": "https://th.bing.com/th/id/OIP.6ZTxGbVyGj76ViUVSWH1NQHaGL?w=224&h=187&c=7&r=0&o=5&dpr=2&pid=1.7"
-  },
+  }, 
   {
     "name": "Mocha",
     "type": "Coffee",
     "origin": "United States",
-    "price": 4.49,
+    "price": "4.49",
+    "discount" "3.5",
     "image": "https://th.bing.com/th/id/OIP.3bxvJj8l7YJ65KSEIcsPYgHaJK?w=140&h=180&c=7&r=0&o=5&dpr=2&pid=1.7"
-  },
-  {
-    "name": "Flat White",
-    "type": "Coffee",
-    "origin": "Australia",
-    "price": 4.99,
-    "image": "https://th.bing.com/th/id/OIP.ndP9hQp1Kbgk0jisEcYJXAHaDO?w=293&h=152&c=7&r=0&o=5&dpr=2&pid=1.7"
-  },
-
-  {
-    "name": "Guatemala Antigua",
-    "type": "Coffee",
-    "origin": "Guatemala",
-    "price": 5.49,
-    "image": "https://th.bing.com/th/id/OIP.piqocqO479PiieUz2zlkawHaEM?w=311&h=180&c=7&r=0&o=5&dpr=2&pid=1.7"
   }
- 
-  
- 
+
+
 ]
