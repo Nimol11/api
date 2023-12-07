@@ -7,7 +7,6 @@
     "discount": "3.2",
     "image": "https://th.bing.com/th/id/OIP.XA6wtDnxaMc20iGyjp7hDQHaGu?w=237&h=215&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
- 
   {
     "name": "Espresso",
     "type": "Coffee",
@@ -16,7 +15,6 @@
     "discount": "2",
     "image": "https://th.bing.com/th/id/OIP.iuXuV3I1W9x3H6EVzOa8XwHaHa?w=184&h=184&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
-  
   {
     "name": "Americano",
     "type": "Coffee",
@@ -33,7 +31,6 @@
     "discount": "3.5",
     "image": "https://th.bing.com/th/id/OIP.377fiRD-zVcxGZF2gOK97AHaE8?w=260&h=180&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
-
   {
     "name": "Turkish Coffee",
     "type": "Coffee",
@@ -41,7 +38,7 @@
     "price": "3.99",
     "discount": "2.5",
     "image": "https://th.bing.com/th/id/OIP.WJXRgDZS8O9oNv-EeQsQfQHaE7?w=262&h=180&c=7&r=0&o=5&dpr=2&pid=1.7"
-  }, 
+  },
   {
     "name": "Mocha",
     "type": "Coffee",
@@ -50,6 +47,4 @@
     "discount": "3.5",
     "image": "https://th.bing.com/th/id/OIP.3bxvJj8l7YJ65KSEIcsPYgHaJK?w=140&h=180&c=7&r=0&o=5&dpr=2&pid=1.7"
   }
-
-
 ]
