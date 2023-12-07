@@ -1,11 +1,5 @@
 [
-  {
-    "name": "Mocha",
-    "type": "Coffee",
-    "origin": "Italy",
-    "price": 4.29,
-    "image": "https://th.bing.com/th/id/OIP.XA6wtDnxaMc20iGyjp7hDQHaGu?w=237&h=215&c=7&r=0&o=5&dpr=2&pid=1.7"
-  },
+  
   {
     "name": "Latte",
     "type": "Coffee",
@@ -13,13 +7,7 @@
     "price": 3.99,
     "image": "https://coffeeaffection.com/wp-content/uploads/2021/05/Spanish-latte-milk-and-espresso-500x500.jpg"
   },
-  {
-    "name": "Espresso",
-    "type": "Coffee",
-    "origin": "Italy",
-    "price": 2.49,
-    "image": "https://th.bing.com/th/id/OIP.iuXuV3I1W9x3H6EVzOa8XwHaHa?w=184&h=184&c=7&r=0&o=5&dpr=2&pid=1.7"
-  },
+  
   {
     "name": "Cappuccino",
     "type": "Coffee",
@@ -27,20 +15,7 @@
     "price": 4.59,
     "image": "https://th.bing.com/th/id/OIP.cdVnKnaAWhzmIQ4fpgk7WgHaE7?w=303&h=201&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
-  {
-    "name": "Americano",
-    "type": "Coffee",
-    "origin": "Italy",
-    "price": 3.79,
-    "image": "https://th.bing.com/th/id/OIP.TooBIAm9-aDHK5DsyIi3BAHaDt?w=340&h=174&c=7&r=0&o=5&dpr=2&pid=1.7"
-  },
-  {
-    "name": "Macchiato",
-    "type": "Coffee",
-    "origin": "Italy",
-    "price": 4.09,
-    "image": "https://th.bing.com/th/id/OIP.377fiRD-zVcxGZF2gOK97AHaE8?w=260&h=180&c=7&r=0&o=5&dpr=2&pid=1.7"
-  },
+ 
   {
     "name": "Ristretto",
     "type": "Coffee",
@@ -62,13 +37,7 @@
     "price": 5.29,
     "image": "https://th.bing.com/th/id/OIP.Y086XLjaJV3dv96I3To5vAAAAA?w=138&h=193&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
-  {
-    "name": "Turkish Coffee",
-    "type": "Coffee",
-    "origin": "Turkey",
-    "price": 3.99,
-    "image": "https://th.bing.com/th/id/OIP.WJXRgDZS8O9oNv-EeQsQfQHaE7?w=262&h=180&c=7&r=0&o=5&dpr=2&pid=1.7"
-  },
+  
   {
     "name": "Viennese Coffee",
     "type": "Coffee",
@@ -97,13 +66,7 @@
     "price": 4.69,
     "image": "https://th.bing.com/th/id/OIP.6ZTxGbVyGj76ViUVSWH1NQHaGL?w=224&h=187&c=7&r=0&o=5&dpr=2&pid=1.7"
   },
-  {
-    "name": "Mocha",
-    "type": "Coffee",
-    "origin": "United States",
-    "price": 4.49,
-    "image": "https://th.bing.com/th/id/OIP.3bxvJj8l7YJ65KSEIcsPYgHaJK?w=140&h=180&c=7&r=0&o=5&dpr=2&pid=1.7"
-  },
+ 
   {
     "name": "Flat White",
     "type": "Coffee",
